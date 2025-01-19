@@ -41,8 +41,8 @@ javafx.fxml
 javafx.media
 
 ## 👥 Credits
-Augusto Penzo Jara - Feature Programmer
-Kevin Vance - Functionality Programmer
-Clayton Ochs - General Programmer, Wiki Maintainer
-Luis Espinoza - Sprite Designer, Animator
-Janiel Echavarría - General Programmer, Environment Designer
+- Augusto Penzo Jara / Feature Programmer
+- Kevin Vance / Functionality Programmer
+- Clayton Ochs / General Programmer, Wiki Maintainer
+- Luis Espinoza / Sprite Designer, Animator
+- Janiel Echavarría / General Programmer, Environment Designer
