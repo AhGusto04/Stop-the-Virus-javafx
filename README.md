@@ -1,6 +1,6 @@
 # Stop The Virus
 
-**Stop The Virus** is an exciting 2D platformer game developed with JavaFX SDK 23. In this game, you play as a cunning virus infiltrating a computer, battling against digital enemies, and navigating various stages to reach the CPU. 
+**Stop The Virus** is a 2D platformer game developed with JavaFX SDK 23. In this game, you play as a virus infiltrating a computer, battling against digital enemies, and navigating various stages to reach the CPU. 
 
 ## 🎮 Gameplay
 
